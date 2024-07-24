@@ -3,4 +3,8 @@
 
 ## Hello! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
 
-As a part of the U.S. Department of Homeland Security's Science & Technology Directorate, which is the Science Advisor and the R&D arm of the Department, we use global talent and technologies to unlock amazing possibilities for homeland security and public safety. Find out more about us at [our website](https://www.dhs.gov/science-and-technology/svip).
+We are a part of the U.S. Department of Homeland Security's Science & Technology Directorate, which is the Science Advisor and the R&D arm of the Department, providing objective, science-based recommendations and access to innovative commercial technologies.
+
+We attract and contract global talent to adapt technologies to unlock amazing possibilities for homeland security and public safety. 
+
+Find out more about us at [our website](https://www.dhs.gov/science-and-technology/svip).
